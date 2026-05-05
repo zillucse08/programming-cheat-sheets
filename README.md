@@ -6,7 +6,7 @@ A curated collection of concise, practical cheat sheets for developers.
 
 ## 🚀 JavaScript
 
-- [📦 Modules](./javascript/modules.md)
+- [📦 Scopes](./javascript/scopes.md)
 
 ---
 
@@ -14,16 +14,6 @@ A curated collection of concise, practical cheat sheets for developers.
 
 This repository provides quick references for real-world development.  
 No fluff, just what you need.
-
----
-
-## 🧠 Topics Coming Next
-
-- ES6+ Features
-- Async JavaScript (Promises, Async/Await)
-- Array Methods (map, filter, reduce, etc.)
-- Object-Oriented JavaScript
-- Scope and Closures
 
 ---
 
