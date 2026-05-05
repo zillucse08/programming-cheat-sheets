@@ -4,10 +4,9 @@ A curated collection of concise, practical cheat sheets for developers.
 
 ---
 
-## 🚀 JavaScript
+## 🚀 Topics
 
-- [📦 Scopes](./javascript/scopes.md)
-- [Code Blocks](./javascript/code-blocks.md)
+- [JavaScript](javascript/README.md)
 
 ---
 

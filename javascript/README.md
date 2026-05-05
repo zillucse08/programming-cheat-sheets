@@ -6,7 +6,9 @@ Quick and practical JavaScript references.
 
 ## 📚 Topics
 
-- [📦 Modules](./modules.md)
+- [Scopes](./scopes.md)
+- [Code Blocks](./code-blocks.md)
+- [Hoisting](./hoisting.md)
 
 ---
 

@@ -1,4 +1,4 @@
-- [Back to main page](../README.md)
+- [Back to JavaScript page](./README.md)
 
 # 🧠 JavaScript Scope Cheat Sheet
 
@@ -171,4 +171,4 @@ outer();
 - let/const = modern and safe
 - Avoid accidental globals
 
-- [Back to main page](../README.md)
+- [Back to JavaScript page](./README.md)
