@@ -128,12 +128,13 @@ var sayHello = function () {
 
 ## ⚖️ 8. Summary Table
 
-Type Hoisted Initialized Behavior
-var ✅ Yes ✅ undefined usable before declare
-let ✅ Yes ❌ No TDZ error
-const ✅ Yes ❌ No TDZ error
-function declaration ✅ Yes ✅ Yes fully usable
-function expression ✅ (var) ❌ No behaves like var
+| Type                 | Hoisted  | Initialized  | Behavior              |
+| -------------------- | -------- | ------------ | --------------------- |
+| var                  | ✅ Yes   | ✅ undefined | usable before declare |
+| let                  | ✅ Yes   | ❌ No        | TDZ error             |
+| const                | ✅ Yes   | ❌ No        | TDZ error             |
+| function declaration | ✅ Yes   | ✅ Yes       | fully usable          |
+| function expression  | ✅ (var) | ❌ No        | behaves like var      |
 
 ## 🧪 9. Real Example
 

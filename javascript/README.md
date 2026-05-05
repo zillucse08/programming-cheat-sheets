@@ -9,6 +9,7 @@ Quick and practical JavaScript references.
 - [Scopes](./scopes.md)
 - [Code Blocks](./code-blocks.md)
 - [Hoisting](./hoisting.md)
+- [Strict Mode](./strict-mode.md)
 
 ---
 
