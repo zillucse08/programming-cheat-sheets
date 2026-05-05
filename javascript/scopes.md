@@ -164,11 +164,11 @@ outer();
 
 ## 🎯 Summary
 
-Scope = variable visibility
-Global = everywhere
-Function = inside function
-Block = inside {}
-let/const = modern and safe
-Avoid accidental globals
+- Scope = variable visibility
+- Global = everywhere
+- Function = inside function
+- Block = inside {}
+- let/const = modern and safe
+- Avoid accidental globals
 
 - [Back to main page](../README.md)
