@@ -11,7 +11,7 @@ A quick reference for understanding and using strict mode in JavaScript.
 Strict mode is a way to **enforce stricter parsing and error handling** in JavaScript.
 
 👉 Helps you write **cleaner, safer code**  
-👉 Prevents silent errors and bad practices ([w3schools.com](https://www.w3schools.com/js/js_strict.asp?utm_source=chatgpt.com))
+👉 Prevents silent errors and bad practices
 
 ---
 

@@ -10,6 +10,9 @@ Quick and practical JavaScript references.
 - [Code Blocks](./code-blocks.md)
 - [Hoisting](./hoisting.md)
 - [Strict Mode](./strict-mode.md)
+- [String Templates](./string-templates.md)
+- [String Methods](./string-methods.md)
+- [String Search](./string-search.md)
 
 ---
 
