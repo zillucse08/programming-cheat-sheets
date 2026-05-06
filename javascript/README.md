@@ -13,6 +13,7 @@ Quick and practical JavaScript references.
 - [String Templates](./string-templates.md)
 - [String Methods](./string-methods.md)
 - [String Search](./string-search.md)
+- [Numbers](./numbers.md)
 
 ---
 
