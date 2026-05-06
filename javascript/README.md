@@ -14,6 +14,7 @@ Quick and practical JavaScript references.
 - [String Methods](./string-methods.md)
 - [String Search](./string-search.md)
 - [Numbers](./numbers.md)
+- [Dates](./dates.md)
 
 ---
 
